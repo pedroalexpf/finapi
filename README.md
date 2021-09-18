@@ -4,7 +4,7 @@
 
 ### Requirements
 
-- Account creation
+- [x] Account creation
 - Search the customer's bank statement
 - It does deposit in the account
 - It does a withdrawal from the account
@@ -17,7 +17,7 @@
 
 ### Business rules
 
-- Does not allow you to register an account with an existing CPF (social number)
+- [x] Does not allow you to register an account with an existing CPF (social number)
 - Does not allow you to deposit into a non-existing account
 - Does not allow you to search a statement in a non-existing account
 - Does not allow you to withdraw from a non-existing account
